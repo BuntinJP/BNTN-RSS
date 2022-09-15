@@ -1,1 +1,4 @@
-# YahooNewsMirror
+# BNTN-RSS
+## ゼミ夏季課題
+
+現状：カテゴリごとのRSS取得について、挙動が不安定。
